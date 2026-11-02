@@ -745,7 +745,7 @@ export default function App() {
       {/* FOOTER */}
       <footer className="py-8 bg-slate-950 border-t border-slate-900 text-center text-xs text-slate-500 font-mono">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <div>© {new Date().getFullYear()} Gihad Mohammed. All rights reserved.</div>
+          <div>© {2026} Gihad Mohammed. All rights reserved.</div>
           <div>AI-Assisted Full Stack Engineer | Cairo, Egypt</div>
         </div>
       </footer>
